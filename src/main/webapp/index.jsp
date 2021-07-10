@@ -1,9 +1,10 @@
 <html>
 <head>
-<title>laxmanraj!</title>
+<title>tomcat browser</title>
 </head>
 <body>
-	<h1>welcome to hyderabad!</h1>
+	<h1>welcome to hyderabad</h1>
+	<h2>Enjoy the city enviroment</h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
